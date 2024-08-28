@@ -1,0 +1,2 @@
+# lan-go
+language go !!!
